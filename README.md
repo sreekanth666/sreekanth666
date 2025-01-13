@@ -6,10 +6,6 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreekanth666&theme=radical" alt="GitHub Streak" />
-</div>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreekanth666&theme=react-dark" alt="Contribution Graph" />
 
 ## 💻 Tech Stack
