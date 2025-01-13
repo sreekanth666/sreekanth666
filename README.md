@@ -29,25 +29,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sreekanth666&theme=radical&margin-w=15" alt="GitHub Trophies" />
 </div>
 
-## 📈 Most Used Languages
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreekanth666&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreekanth666)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://your-portfolio-url.com)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-## 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-```text
-JavaScript   10 hrs 30 mins  ███████████░░░░░░░░  45.2%
-React        8 hrs 15 mins   ██████████░░░░░░░░░  35.5%
-CSS          2 hrs 45 mins   ████░░░░░░░░░░░░░░░  11.8%
-HTML         1 hr 45 mins    ███░░░░░░░░░░░░░░░░   7.5%
-```
-<!--END_SECTION:waka-->
 
 ---
 <div align="center">
